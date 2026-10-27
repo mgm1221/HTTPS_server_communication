@@ -1,0 +1,11 @@
+{
+  "name": "ejerciciohttps",
+  "version": "0.0.1",
+  "main": "a.js",
+  "scripts": {
+    "start": "node a.js & node b.js"
+  },
+  "author": "Martin Garces",
+  "license": "ISC",
+  "description": "Small communication between servers project"
+}
